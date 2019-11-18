@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro_Edson", "Cadastro_Edson\Cadastro_Edson.csproj", "{ADAE6391-6ACD-4BB1-A583-23D80AD05408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro_Edson.Core", "Cadastro_Edson.Core\Cadastro_Edson.Core.csproj", "{5EFB32AE-E018-4047-BABC-3EEF0EF45146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADAE6391-6ACD-4BB1-A583-23D80AD05408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAE6391-6ACD-4BB1-A583-23D80AD05408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAE6391-6ACD-4BB1-A583-23D80AD05408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAE6391-6ACD-4BB1-A583-23D80AD05408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EFB32AE-E018-4047-BABC-3EEF0EF45146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFB32AE-E018-4047-BABC-3EEF0EF45146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFB32AE-E018-4047-BABC-3EEF0EF45146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFB32AE-E018-4047-BABC-3EEF0EF45146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20D176C6-97AD-4A02-8090-39B4A0E7AB0D}
+	EndGlobalSection
+EndGlobal
